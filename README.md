@@ -1,6 +1,7 @@
 # Super Mario Game
-
+## Description
 A simple 2D Mario game implemented using OpenGL and C++. The game allows the player to control Mario, jump, avoid obstacles, collect coins, and apples while keeping track of health and score.
+
 
 ## Features
 - **Mario Movement**: Move Mario left and right using the 'a' and 'd' keys.
